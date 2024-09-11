@@ -4,7 +4,7 @@
     "category": "Developer Tools",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Loggly+Connector",
     "description": "The Loggly connector allows you to access the exposed Loggly REST API through WSO2 ESB. Loggly is a SaaS solution for log data management. It allows you to access logs from the depths of your entire infrastructure so you can track activities and analyze trends in one place.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
